@@ -16,3 +16,4 @@ public class MainWindow extends JFrame {
         MainWindow mw = new MainWindow();
     }
 }
+
